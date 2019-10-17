@@ -1,0 +1,41 @@
+= Тестовая документация для проверки Antora
+:sectnums:
+:toc-title: Оглавление
+:toc: 
+
+toc::[]
+
+== Что хочу?
+
+Проверить сборку документа в link:https://antora.org/[Antora]
+
+== Отображение списков
+
+. Раз
+. Два
+. Три
+. Четыре
+
+== Отображение табличек
+
+.Таблица для проверки
+[cols="10h,20,20"]
+|===
+|Header column 1 |Header column 2 |Header column 3
+
+|Cell 1, row 1
+|Cell 2, row 1
+|Cell 3, row 1
+|===
+
+
+== Отображение диаграммы
+
+[plantuml,"example",svg]
+....
+include::./asciidoc/schemas/schema.puml[]
+....
+
+== Отображение вложенного документа
+
+include::./asciidoc/examples/service1/service1-request.adoc[]

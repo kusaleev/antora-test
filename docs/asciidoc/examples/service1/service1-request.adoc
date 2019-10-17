@@ -1,0 +1,10 @@
++++ <details><summary> +++
+Пример как пример
++++ </summary><div> +++
+[source,json]
+----
+{
+    "param1" : "string"
+}
+----
++++ </div></details> +++
