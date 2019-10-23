@@ -1,5 +1,6 @@
 name: test-doc
-version: '1.0'
 title: kusaleev
+version: '1.0'
+start_page: ROOT:index.adoc
 nav:
-- ROOT/nav.adoc
+- modules/ROOT/nav.adoc
