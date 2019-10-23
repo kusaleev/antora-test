@@ -1,5 +1,5 @@
-name: antora
+name: test-doc
 version: '1.0'
 title: kusaleev
 nav:
-- ./docs/modules/ROOT/nav.adoc
+- ROOT/nav.adoc
