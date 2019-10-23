@@ -1,5 +1,10 @@
-name: testDoc
-version: '1.2'
-title: Ну надо вот попробовать наконец!
+name: antora
+version: '2.2'
+title: Antora
 nav:
 - modules/ROOT/nav.adoc
+- modules/asciidoc/nav.adoc
+- modules/navigation/nav.adoc
+- modules/playbook/nav.adoc
+- modules/pipeline/nav.adoc
+- modules/ROOT/nav-end.adoc
