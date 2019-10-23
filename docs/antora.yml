@@ -1,6 +1,5 @@
-name: test-doc
-title: kusaleev
-version: '1.0'
-start_page: ROOT:index.adoc
+name: testDoc
+version: '1.2'
+title: Ну надо вот попробовать наконец!
 nav:
 - modules/ROOT/nav.adoc
