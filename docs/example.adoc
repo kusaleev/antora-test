@@ -1,4 +1,5 @@
 = Тестовая документация для проверки Antora
+:attribute-a: value-a
 :sectnums:
 :toc-title: Оглавление
 :toc: 
