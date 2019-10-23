@@ -2,4 +2,4 @@ name: antora
 version: '1.0'
 title: kusaleev
 nav:
-- modules/ROOT/nav.adoc
+- ./docs/modules/ROOT/nav.adoc
