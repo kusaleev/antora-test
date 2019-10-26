@@ -1,2 +1,1 @@
 * xref:example.adoc[Что хочу видеть в корне]
-.xref:index.adoc[Index Page]
