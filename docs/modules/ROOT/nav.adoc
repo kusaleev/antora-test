@@ -1,1 +1,2 @@
-* xref:example.adoc[Что хочу видеть в корне]
+* xref:index.adoc[Главное]
+** xref:example.adoc[Что хочу видеть в корне]
