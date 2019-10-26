@@ -1,6 +1,6 @@
 name: ksaleev
 version: '2.1.2'
-title: Antora
+title: ksaleev
 nav:
 - modules/ROOT/nav.adoc
 # - modules/asciidoc/nav.adoc
