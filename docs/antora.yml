@@ -1,6 +1,7 @@
-name: ksaleev
-version: '2.1.2'
-title: ksaleev
+name: asciidoc-docs-test
+version: master
+title: Asciidoc Docs Test
+start_page: ROOT:asciidoc-docs-test:index.adoc
 nav:
 - modules/ROOT/nav.adoc
 # - modules/asciidoc/nav.adoc
