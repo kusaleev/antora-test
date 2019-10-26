@@ -1,10 +1,10 @@
 name: asciidoc-docs-test
-version: master
+version: '1.0'
 title: Asciidoc Docs Test
-#start_page: ROOT:asciidoc-docs-test:index.adoc
+start_page: ROOT:asciidoc-docs-test:index.adoc
 nav:
 - modules/ROOT/nav.adoc
-# - modules/asciidoc/nav.adoc
+- modules/asciidoc/nav.adoc
 # - modules/navigation/nav.adoc
 # - modules/playbook/nav.adoc
 # - modules/pipeline/nav.adoc
