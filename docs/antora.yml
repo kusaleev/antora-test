@@ -1,7 +1,7 @@
 name: asciidoc-docs-test
 version: '1.0'
 title: Asciidoc Docs Test
-start_page: ROOT:index.adoc
+#start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/asciidoc/nav.adoc
