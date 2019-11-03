@@ -44,5 +44,5 @@ include::../modules/asciidoc/pages/service1-request.adoc[]
 == Sidebar
 [sidebar]
 ****
-Пример текста для сайбара
+TIP: Пример текста для сайбара
 ****
