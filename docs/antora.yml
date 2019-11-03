@@ -1,11 +1,11 @@
-name: asciidoc-docs-test
+name: same_name
 version: '1.0'
-title: Asciidoc Docs Test
-#start_page: ROOT:index.adoc
+title: Same Test Page
+nav:
 nav:
 - modules/ROOT/nav.adoc
 - modules/asciidoc/nav.adoc
-# - modules/navigation/nav.adoc
-# - modules/playbook/nav.adoc
-# - modules/pipeline/nav.adoc
-# - modules/ROOT/nav-end.adoc
+- modules/navigation/nav.adoc
+- modules/playbook/nav.adoc
+- modules/pipeline/nav.adoc
+- modules/ROOT/nav-end.adoc
