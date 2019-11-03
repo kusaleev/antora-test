@@ -1,7 +1,7 @@
 name: test docs
 version: '2.0'
 title: Same Test Page
-start_page: ROOT:index.adoc
+#start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/asciidoc/nav.adoc
