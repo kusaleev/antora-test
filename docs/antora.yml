@@ -2,5 +2,5 @@ name: same_name
 version: '1.0'
 title: Same Test Page
 nav:
-nav:
 - modules/ROOT/nav.adoc
+- modules/asciidoc/nav.adoc
