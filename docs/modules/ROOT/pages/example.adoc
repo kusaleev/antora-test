@@ -40,3 +40,9 @@ include::./docs/modules/asciidoc/schemas/schema.puml[]
 == Отображение вложенного документа
 
 include::../modules/asciidoc/pages/service1-request.adoc[]
+
+== Sidebar
+[sidebar]
+****
+Пример текста для сайбара
+****
