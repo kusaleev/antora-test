@@ -34,9 +34,9 @@ toc::[]
 
 [plantuml,"example",svg]
 ....
-include::./asciidoc/schemas/schema.puml[]
+include::../asciidoc/schemas/schema.puml[]
 ....
 
 == Отображение вложенного документа
 
-include::./asciidoc/examples/service1/service1-request.adoc[]
+include::./docs/modules/asciidoc/pages/service1-request.adoc[]
