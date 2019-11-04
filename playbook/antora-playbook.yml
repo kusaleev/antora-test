@@ -1,9 +1,11 @@
 site: 
   title: Тестовая страница с документацией
-  start_page: antora-test::index.adoc
+  start_page: antora-test::index2.adoc
+  #start_page: ROOT::index.adoc
 content: 
   sources: 
-  - url: https://@github.com/kusaleev/antora-test.git
+  #- url: https://@github.com/kusaleev/antora-test.git
+  - url: /Users/kirillsaleev/Documents/_study/GitHub/antora-test
     branches: master
     start_path: docs
 ui:

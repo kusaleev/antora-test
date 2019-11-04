@@ -1,2 +1,2 @@
-.Asciidoc
-* xref:schema.puml[Schema example]
+.Схемы
+** xref:schema.puml[Schema example]

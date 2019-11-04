@@ -1,2 +1,2 @@
 .Asciidoc
-* xref:service1-requesr.adoc[Пример запроса]
+* xref:service1-request.adoc[Пример запроса]

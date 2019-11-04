@@ -29,18 +29,18 @@ toc::[]
 |===
 
 
-== Отображение диаграммы
+// == Отображение диаграммы
 
-[plantuml,"example",svg]
-....
-include::../modules/asciidoc/schemas/schema.puml[]
-....
+// [plantuml,"example",svg]
+// ....
+// include::../modules/asciidoc/schemas/schema.puml[]
+// ....
 
 == Отображение вложенного документа
 
-include::service1-request.adoc[]
+//include::service1-request.adoc[]
 
-include::/Users/kirillsaleev/Documents/_study/GitHub/antora-test/docs/modules/asciidoc/pages/service1-request.adoc[]
+//include::/Users/kirillsaleev/Documents/_study/GitHub/antora-test/docs/modules/asciidoc/pages/service1-request.adoc[]
 
 
 == Sidebar
