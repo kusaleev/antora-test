@@ -1,6 +1,6 @@
 site: 
-  title: Мутим с Лёхой
-  #start_page: antora-test:index.adoc
+  title: Тестовая страница с документацией
+  start_page: antora-test::index.adoc
 content: 
   sources: 
   - url: https://@github.com/kusaleev/antora-test.git
