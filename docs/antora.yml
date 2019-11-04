@@ -1,7 +1,8 @@
 name: antora-test
 version: '1.0'
-title: Страница с документацией проекта
+title: Версиии всякие там
 #start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/asciidoc/nav.adoc
+- modules/schemas/nav.adoc

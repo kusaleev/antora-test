@@ -1,5 +1,4 @@
 = Тестовая документация для проверки Antora
-:attribute-a: value-a
 :sectnums:
 :toc-title: Оглавление
 :toc: 
@@ -34,12 +33,15 @@ toc::[]
 
 [plantuml,"example",svg]
 ....
-include::./docs/modules/asciidoc/schemas/schema.puml[]
+include::../modules/asciidoc/schemas/schema.puml[]
 ....
 
 == Отображение вложенного документа
 
-include::../modules/asciidoc/pages/service1-request.adoc[]
+include::service1-request.adoc[]
+
+include::/Users/kirillsaleev/Documents/_study/GitHub/antora-test/docs/modules/asciidoc/pages/service1-request.adoc[]
+
 
 == Sidebar
 [sidebar]

@@ -1,0 +1,2 @@
+.Asciidoc
+* xref:schema.puml[Schema example]
