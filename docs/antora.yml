@@ -1,4 +1,4 @@
-name: test docs
+name: antora-test
 version: '1.0'
 title: Страница с документацией проекта
 #start_page: index.adoc
