@@ -3,6 +3,6 @@ version: '1.0'
 title: Тестовое оглавление
 start_page: ROOT:index2.adoc
 nav:
-- modules/ROOT/nav.adoc
+- modules/ROOT/nav.adoc 
 - modules/asciidoc/nav.adoc
 - modules/schemas/nav.adoc
