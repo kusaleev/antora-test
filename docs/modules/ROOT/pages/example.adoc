@@ -2,6 +2,7 @@
 :sectnums:
 :toc-title: Оглавление
 :toc: 
+:image-dir: ./antora-test/docs/modules/schemas/images/
 
 toc::[]
 
@@ -38,10 +39,9 @@ toc::[]
 
 == Отображение вложенного документа
 
-//include::service1-request.adoc[]
+//xref:partials:service1-request.adoc[Пример страницы]
 
-//include::/Users/kirillsaleev/Documents/_study/GitHub/antora-test/docs/modules/asciidoc/pages/service1-request.adoc[]
-
+//include::1.0@modules:schemas:images:schemas.png[]
 
 == Sidebar
 [sidebar]

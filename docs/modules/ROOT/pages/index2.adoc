@@ -8,3 +8,9 @@
 ****
 Пример текста для сайбара
 ****
+
+// == Picture
+
+// image::antora-test/docs/modules/schemas/images/schema.png[]
+
+// image::1.0@antora-test/docs/modules/schemas/images/schema.png[]

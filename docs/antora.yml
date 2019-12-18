@@ -1,7 +1,7 @@
 name: antora-test
 version: '1.0'
-title: Версиии всякие там
-#start_page: index.adoc
+title: Тестовое оглавление
+start_page: ROOT:index2.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/asciidoc/nav.adoc

@@ -1,3 +1,3 @@
 .Оглавление
-* xref:index.adoc[Главное]
-* xref:example.adoc[Что хочу видеть в корне]
+* xref:example.adoc[Пример рандомной страницы]
+** xref:asciidoc:service1-request.adoc[С примером запроса]
