@@ -5,7 +5,8 @@ site:
 content: 
   sources: 
   #- url: https://@github.com/kusaleev/antora-test.git
-  - url: /Users/kirillsaleev/Documents/_study/GitHub/antora-test
+  # - url: /Users/kirillsaleev/Documents/_study/GitHub/antora-test
+  - url: /Users/kirillsaleev/Documents/GitHub/antora-test
     branches: master
     start_path: docs
 ui:
